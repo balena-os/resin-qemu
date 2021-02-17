@@ -29,9 +29,9 @@ module.exports =
 		QEMU_RUNNING_INSTRUCTIONS
 	]
 	gettingStartedLink:
-		windows: 'http://docs.resin.io/#/pages/installing/gettingStarted.md#windows'
-		osx: 'http://docs.resin.io/#/pages/installing/gettingStarted.md#on-mac-and-linux'
-		linux: 'http://docs.resin.io/#/pages/installing/gettingStarted.md#on-mac-and-linux'
+		windows: 'https://www.balena.io/docs/learn/getting-started/qemux86-64/nodejs/'
+		osx: 'https://www.balena.io/docs/learn/getting-started/qemux86-64/nodejs/'
+		linux: 'https://www.balena.io/docs/learn/getting-started/qemux86-64/nodejs/'
 	supportsBlink: true
 
 	yocto:
